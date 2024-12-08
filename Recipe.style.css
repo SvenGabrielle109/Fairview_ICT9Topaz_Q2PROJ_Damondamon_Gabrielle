@@ -1,0 +1,31 @@
+body{
+	background-color: #f2c28f;
+	font-family: Times New Roman;
+	margin: 25px;
+}
+
+.container1{
+	text-align: center;
+	font-family: Gills Sans MT;
+	color: #5c4a3b;
+	background-color: #b5906b;
+	margin-top: 15px;
+}
+
+.container1 p{
+	font-size: 15px;
+}
+
+nav img{
+	height: 45px;
+	width: 45px;
+}
+.container2{
+	background-color: #735434;
+	width: 1000px;
+	padding: 25px;
+	margin: auto;
+	box-shadow: 25px 25px 15px rgba(0, 0, 0, 8);
+	cursor: pointer;
+	border-radius: 10px;
+}
