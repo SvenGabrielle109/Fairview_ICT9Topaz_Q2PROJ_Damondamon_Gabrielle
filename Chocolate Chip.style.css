@@ -1,0 +1,53 @@
+.container{
+	display: flex;
+}
+
+.container1{
+	color: #38220a;
+	float: left;
+}
+
+body{
+	background-color: #b5906b;
+	font-family: Gill Sans;
+	font-size: 15px;
+}
+
+table,tr,td{
+	border: 3px solid #80674e;
+	padding: 1px;
+	text-align: center;
+}
+
+li{
+	text-align: left;
+}
+
+img{
+	height: 450px;
+	width: 450px;
+}
+
+a{
+	font-family: Times New Roman;
+	color: #011e2e;
+	font-weight: bold;
+}
+
+.rounded{
+	border: 2.5px solid #38220a;
+	padding: 1.5px;
+}
+
+.container3{
+	background-color: #633405;
+	text-align: left;
+}
+
+h1{
+	font-family: Gill Sans;
+	color: #381c03;
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+}
